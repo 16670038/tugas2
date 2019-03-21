@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".F1">
+
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/wall"
+            android:contentDescription="@string/wall"/>
+
+    <TextView
+            android:text="@string/nama1"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:id="@+id/textView"
+            android:textSize="36sp"
+            android:textColor="@android:color/black"/>
+    <ImageView
+            android:src="@drawable/kotaknama"
+            android:layout_width="match_parent"
+            android:layout_height="360dp"
+            android:layout_marginTop="335dp"
+            android:scaleX="2"
+            android:scaleY="1"
+            android:id="@+id/imageView4"
+            android:contentDescription="@string/kotaknama"/>
+    <ImageView
+            android:src="@drawable/rumah"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="start"
+            android:layout_marginTop="420dp"
+            android:id="@+id/imageView"
+            android:contentDescription="@string/company"/>
+    <ImageView
+            android:src="@drawable/hp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="start"
+            android:layout_marginTop="520dp"
+            android:id="@+id/imageView3"
+            android:contentDescription="@string/idea"/>
+    <TextView
+            android:text="@string/rumah"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="100dp"
+            android:textSize="24sp"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:id="@+id/textView2"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"/>
+    <TextView
+            android:text="@string/hp"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="210dp"
+            android:textSize="24sp"
+            android:textColor="@android:color/white"
+            android:id="@+id/textView3"
+            android:layout_marginStart="60dp"
+            android:layout_marginLeft="60dp"/>
+
+</FrameLayout>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">DodikWViewTabs</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="wall">TODO</string>
+    <string name="rf">TODO</string>
+    <string name="nama1">Dodik Wiratama P.P</string>
+    <string name="game">Game favorit</string>
+    <string name="luna">TODO</string>
+    <string name="company">TODO</string>
+    <string name="idea">TODO</string>
+    <string name="teman">Teman</string>
+    <string name="rumah">Jl. Klipang Raya R 20 no 3 </string>
+    <string name="hp">089652855585</string>
+    <string name="kotaknama">TODO</string>
+    <string name="firman">Firman</string>
+    <string name="didik">Didik</string>
+    <string name="luhur">Luhur</string>
+    <string name="ayu">Ayu</string>
+    <string name="riki">Riki</string>
+    <string name="fuji">Fuji</string>
+    <string name="button">Button</string>
+    <string name="tugu">Tugu Muda</string>
+    <string name="tugu1">
+        Tugu Muda adalah sebuah monumen yang dibuat untuk mengenang jasa-jasa para pahlawan yang telah gugur
+        dalam Pertempuran Lima Hari di Semarang.
+    </string>
+    <string name="apainfo">Apa itu Teknik Informatika?</string>
+    <string name="apainfo1">Program studi Teknik Informatika mempelajari dan menerapkan prinsip-prinsip ilmu komputer dan analisa matematis untuk desain, pengembangan, pengujian, dan evaluasi perangkat lunak, sistem operasi dan kerja komputer.
+        Pada prodi ini akan diajarkan mulai dari menghasilkan ide kreatif, kemudian merealisasikan ide tersebut, memecah fungsi-fungsi, dan menciptakan struktur instruksi yang sangat detil dalam bahasa pemrograman untuk mengajarkan komputer apa saja yang harus dilakukan.
+        Mahasiswa Ilmu Komputer harus menjadi ahli dalam sistem operasi dan aplikasi untuk memastikan bahwa dasar sistem operasi bekerja dengan baik.
+    </string>
+    <string name="kenapainfo">Kenapa memilih Informatika? </string>
+    <string name="kenapainfo1">Untuk menguasai Teknik Informatika, paling tidak kamu memahami logika dan matematika. Mahasiswa Teknik Informatika akan menghabiskan banyak waktunya dengan pemrograman, dan pemrograman itu sendiri adalah perwujudan dari algoritma (matematika dan logika).
+        Tapi, kalau kamu tertarik dengan dunia teknologi dan memiliki minat untuk mengembangkan sebuah perangkat lunak maka program studi ini tentu bisa menjadi pilihan kamu.
+    </string>
+</resources>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".F2">
+
+    <ImageView
+            android:src="@drawable/firman"
+            android:layout_width="150dp"
+            android:layout_height="250dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginStart="30dp"
+            android:id="@+id/imageView2"
+            android:contentDescription="@string/firman"/>
+
+    <ImageView
+            android:src="@drawable/didik"
+            android:layout_width="150dp"
+            android:layout_height="250dp"
+            android:layout_marginStart="230dp"
+            android:id="@+id/imageView5"
+            android:layout_marginLeft="230dp"
+            android:contentDescription="@string/didik"/>
+
+    <TextView
+            android:text="@string/firman"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="200dp"
+            android:layout_marginStart="70dp"
+            android:layout_marginLeft="70dp"
+            tools:ignore="RtlCompat"/>
+    <TextView
+            android:text="@string/didik"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="200dp"
+            android:layout_marginStart="280dp"
+            android:layout_marginLeft="280dp"/>
+
+    <ImageView
+            android:src="@drawable/luhur"
+            android:layout_width="150dp"
+            android:layout_height="220dp"
+            android:layout_gravity="start"
+            android:layout_marginTop="200dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginStart="30dp"
+            android:id="@+id/imageView6"
+            android:contentDescription="@string/luhur"/>
+
+    <ImageView
+            android:src="@drawable/ayu"
+            android:layout_width="150dp"
+            android:layout_height="220dp"
+            android:layout_marginStart="230dp"
+            android:layout_marginLeft="230dp"
+            android:layout_marginTop="200dp"
+            android:id="@+id/imageView7"
+            android:contentDescription="@string/ayu"/>
+
+    <TextView
+            android:text="@string/luhur"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="410dp"
+            android:layout_marginStart="70dp"
+            android:layout_marginLeft="70dp"
+            tools:ignore="RtlCompat"/>
+
+    <TextView
+            android:text="@string/ayu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="410dp"
+            android:layout_marginStart="290dp"
+            android:layout_marginLeft="290dp"/>
+
+    <ImageView
+            android:src="@drawable/riki"
+            android:layout_width="150dp"
+            android:layout_height="220dp"
+            android:layout_gravity="start"
+            android:layout_marginTop="420dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginStart="30dp"
+            android:id="@+id/imageView8"
+            android:contentDescription="@string/riki"/>
+
+    <ImageView
+            android:src="@drawable/fuji"
+            android:layout_width="150dp"
+            android:layout_height="220dp"
+            android:layout_marginStart="230dp"
+            android:layout_marginLeft="230dp"
+            android:layout_marginTop="420dp"
+            android:id="@+id/imageView9"
+            android:contentDescription="@string/fuji"/>
+
+    <TextView
+            android:text="@string/riki"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="620dp"
+            android:layout_marginStart="80dp"
+            android:layout_marginLeft="80dp"
+            tools:ignore="RtlCompat"/>
+
+    <TextView
+            android:text="@string/fuji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="620dp"
+            android:layout_marginStart="290dp"
+            android:layout_marginLeft="290dp"/>
+
+</FrameLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".F4">
+
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="75dp"
+            android:src="@drawable/rf"
+            android:contentDescription="@string/rf"/>
+    <TextView
+            android:text="@string/game"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginStart="100dp"
+            android:id="@+id/textView"
+            android:textSize="36sp"
+            android:textColor="@android:color/black"/>
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="450dp"
+            android:src="@drawable/luna"
+            android:contentDescription="@string/luna"/>
+
+</FrameLayout>
